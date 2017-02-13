@@ -21,16 +21,16 @@ On this account, we decided to create an online tool that allows collaboration a
 Our solution is meant for individual users as well as for communities or enterprises. With it, it should be possible to present and share its own circular economy related knowledge. This requirement brought us to split the website into four different sections:
 
 #### Users
-An individual user of the website. Anyone wanting to write something or to contribute to a project needs to create an account. Without an account, most of the contents remain open and readable by anyone but it isn'r possible to actively take part to anything.
+An individual user of the website. Anyone wanting to write something or to contribute to a project needs to create an account. Without an account, most of the contents remain open and readable by anyone but it isn't possible to actively take part to anything.
 
 #### Communities
-A community is a group of users that want to work together on particular projects. This can be a collective, like Agora, an Enterprise or even a group of friends that only meet online. Communities can be used to represent a group online, to communicate internal goals to the outside world and to work on common fields together with like-minded people.
+A community is a group of users that want to work together on particular projects. This can be a collective, like Agora, an enterprise or even a group of friends that meet online. Communities can be used to communicate internal goals to the outside world and to work on common fields together with like-minded people.
 
 #### Recipes
-Recipes describe a knowledge in the circular economy field. This includes the right waste separation to the reuse of waste material in industries. This is a theoretical approach, which can be used in practice and almost leads to slightly or totally different results.
+Recipes describe a knowledge in the circular economy field. This goes from the right waste separation to the reuse of waste material in large industries. This is a theoretical approach, which can be used in practice and leads from slightly different or totally different results.
 
 #### Projects
-A project can consist of many recipes and can be seen as the practical application of a knowledge. A project should not just describe a product as is but also the process in which it has been created and how it integrates in a circular economy. This could be as well Agora's growhouse as Shoe soles made of plastic waste by the company "Timberland".
+A project can consist of many recipes and can be seen as the practical application of a knowledge. A project should not just describe a product/result as is but also the process in which it has been created and how it integrates in a circular economy. This could be the Agora's growhouse or the Timberland's creation of Shoe soles made of plastic waste.
 
 ## Creation
 `todo`
