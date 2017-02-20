@@ -36,7 +36,7 @@ Subsequently, we agreed on UI guidelines, typography and colors. We used them on
 
 Anyway, in order to demonstrate the usage of the website, we created video simulation showing a fictive user acting on the platform. You can find it below:
 
-[![Video simulation of the platform](https://raw.githubusercontent.com/FH-Potsdam/open-circle/master/md-images/openCircleVideo.jpg)](http://to.do) `todo:` Update link with vimeo url
+[![Video simulation of the platform](https://raw.githubusercontent.com/FH-Potsdam/open-circle/master/md-images/openCircleVideoBanner.jpg)](http://to.do) `todo:` Update link with vimeo url
 
 We [open sourced the project on _Github_](https://github.com/FH-Potsdam/open-circle/blob/master/README.md) to allow anybody to build upon these ideas and we hope that someone will make it his business, so that eventually, this project or a similar one once becomes available to the community. If you are one of these, please feel free to contact us and/or simply to tell us what you did with it.
 
