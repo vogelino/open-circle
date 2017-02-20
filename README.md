@@ -24,13 +24,10 @@ Our solution is meant for individual users as well as for communities or enterpr
 An individual user of the website. Anyone wanting to write something or to contribute to a project needs to create an account. Without an account, most of the contents remain open and readable by anyone but it isn't possible to actively take part to anything.
 
 #### Communities
-A community is a group of users that want to work together on particular projects. This can be a collective, like Agora, an Enterprise or even a group of friends that only meet online. Communities can be used to communicate internal goals to the outside world and to work on common fields together with like-minded people.
-
-#### Recipes
-Recipes describe a knowledge in the circular economy field. This includes the right waste separation to the reuse of waste material in industries. This is a theoretical approach, which can be used in practice and almost leads to slightly or totally different results.
+A community is a group of users that want to work together on particular projects. This can be a collective, like Agora, an enterprise or even a group of friends that meet online. Communities can be used to communicate internal goals to the outside world and to work on common fields together with like-minded people.
 
 #### Projects
-A project can consist of many recipes and can be seen as the practical application of a knowledge. A project should not just describe a product as is but also the process in which it has been created and how it integrates in a circular economy. This could be as well Agora's growhouse as Shoe soles made of plastic waste by the company "Timberland".
+A project can consist of many recipes and can be seen as the practical application of a knowledge. A project should not just describe a product/result as is but also the process in which it has been created and how it integrates in a circular economy. This could be the Agora's growhouse or the Timberland's creation of Shoe soles made of plastic waste.
 
 ## Creation
 In order to illustrate the potential of such a platform, we decided to design the screens of the website. First, we decided about the goals of the product and listed them to make sure to keep track on the aspects to fulfill. We then started to scribble the different pages layout. As a second step, we created more precise filigree representations of the pages, the so called wireframes, insetering gradually the needed contents and interface elements.
