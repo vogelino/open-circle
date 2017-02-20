@@ -1,4 +1,4 @@
-# Open Circle
+![Video simulation of the platform](https://raw.githubusercontent.com/FH-Potsdam/open-circle/master/md-images/openCircleVideoBanner.jpg)
 
 > Open circle is a study project done at the University of Applied Science Potsdam by Bela Kurek ([@q-rec](https://github.com/q-rec)) and [Lucas Vogel](https://vogelino.com) ([@vogelino](https://github.com/vogelino)) in the winter semester 2016-2017. The project has been realised in collaboration with the _Center for Contemporary Practices in Berlin_ [Agora Collective](http://agoracollective.org/) and _Berlin's public cleansing service_ the [Berliner Stadtreinigung](https://www.bsr.de/) in the course CIRCULAR ECONOMY supervised by [Alexandra Martini](http://alexandramartini.com/). 
 > 
